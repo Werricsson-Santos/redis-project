@@ -9,8 +9,6 @@ Este projeto compara o desempenho de consultas no PostgreSQL com e sem o uso de 
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Descrição
 
